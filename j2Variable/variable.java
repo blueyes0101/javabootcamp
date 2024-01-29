@@ -8,5 +8,4 @@ public class variable {
         System.out.println("Summe= " + summe);
         //Summe= 67
     }
-    
 }
