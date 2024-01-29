@@ -11,7 +11,8 @@ public class CharBoolean {
         System.out.println(c);
 
         boolean d = true;
-        System.out.println(d);
+        System.out.println(d);//true
+        System.out.println(a+b);
 
     }
 }
