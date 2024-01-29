@@ -22,5 +22,6 @@ public class FloatDouble {
         System.out.println(h); //3
         System.out.println(i); //3.142857
         System.out.println(j); //3.142857142857143
+        System.out.println(a+b+c+d+e+f+g);
     }
 }
